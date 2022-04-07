@@ -3,4 +3,4 @@
 
 Link do fórum: [Como acessar os campos de um JSON em C#](https://forum.casadodesenvolvedor.com.br/topic/2394-como-acessar-os-campos-de-um-json-em-c)
 
-Vídeo explicativo: Em breve!
+Vídeo explicativo: [Como acessar os campos de um JSON em C#](https://www.youtube.com/watch?v=H-FvYkKhfv4)
